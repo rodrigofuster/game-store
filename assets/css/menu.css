@@ -1,0 +1,10 @@
+.menu__link {
+    color: #333333;
+    padding: .5rem 1rem;
+    transition: 1s;
+
+}
+.menu__link:hover {
+    color: rgb(173, 10, 10);
+    font-size: 1.25rem;
+}
